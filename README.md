@@ -24,5 +24,6 @@ Pylance extension (for intelligent code suggestions)
 Command Prompt/Terminal (for execution and debugging)
 In conclusion,it was an insightful exercise that helped me explore the fundamentals of Natural Language Processing and understand how AI can be integrated into real-world applications. It strengthened my Python skills and gave me practical experience in building conversational agents.
 
-"OUTPUT":
+*OUTPUT*:
+<img width="968" height="340" alt="Image" src="https://github.com/user-attachments/assets/303c0f31-a584-4143-8b1d-5066bd52cb3d" />
 
